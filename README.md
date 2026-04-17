@@ -1,6 +1,6 @@
 ﻿# Sistema de Cálculo de Descontos para Marketplace 
  
-## Seu Nome:
+## Seu Nome: Pedro Henrique de Vasconcellos Franco 
 
 ## Visão Geral do Projeto
 
